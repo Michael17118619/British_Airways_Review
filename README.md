@@ -125,9 +125,11 @@ Added interactive elements like filters, tooltips, and drill-downs to improve us
 
 Contributions are welcome!
 
+## *Connect With Me*  
+- *LinkedIn*: [linkedin.com/in/michael-orekoya](https://www.linkedin.com/in/michael-orekoya)  
+- *GitHub*: [github.com/Michael17118619](https://github.com/Michael17118619)  
+- *Email*: michaelorekoya1711@aol.com  
+- *Tableau Public*: [View My Tableau Projects](https://public.tableau.com/app/profile/michael.orekoya/vizzes)
 
 
 
-Commit changes (git commit -m "Added new visualization")
-
-Push to branch & open a Pull Request
