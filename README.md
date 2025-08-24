@@ -27,35 +27,47 @@ The project explores customer satisfaction, ratings distribution, sentiment anal
 
 🌍 Customer Demographics – Explore review distribution by region and traveler type.
 
+✈️ Aircraft-Level Insights – Satisfaction scores by aircraft model.
+
 🛠 Tech Stack
 
 Visualization Tool: Tableau
 
-Data Source: British Airways customer review dataset (scraped or provided)
+Data Sources:
 
-Languages/Scripts (Optional): Python / R (if preprocessing was done before Tableau import)
+ba_reviews.csv – British Airways customer review dataset
+
+Countries.csv – Country-level mapping data
+
+Optional Preprocessing: Python / Excel (for data cleaning)
 
 🚀 Getting Started
 
 Clone the repository
 
-git clone https://github.com/your-username/british-airways-review-project.git
+git clone https://github.com/Michael17118619/british-airways-review-project.git
 
-
-Open the project file in Tableau:
+Open the Tableau Project
 
 File: British Airways Review Project.twbx
 
-Load the dataset if required and refresh the dashboard.
+Ensure datasets (ba_reviews.csv, Countries.csv) are available in the /data folder.
 
-Explore insights through interactive visualizations.
+Explore the Dashboard
+
+Interact with filters (metric, traveller type, seat type, continent).
+
+Drill down by month, aircraft, and region for deeper insights.
 
 📂 Repository Structure
-.
+
+├── data/
+│   ├── ba_reviews.csv         # Customer review dataset
+│   ├── Countries.csv          # Country mapping data
 ├── British Airways Review Project.twbx   # Tableau packaged workbook
-├── Dashboard.png                         # (Optional) Dashboard preview screenshot
-├── data/                                 # (Optional) Dataset files
+├── British Review Dashboard.png          # Dashboard screenshot
 └── README.md                             # Documentation
+
 
 📌 Insights for Stakeholders
 
